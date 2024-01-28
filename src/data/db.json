@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "my first todo update",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "my second todo",
+      "complete": false
+    },
+    {
+      "id": 0.10770418778379698,
+      "title": "delete folder",
+      "complete": false
+    }
+  ]
+}
